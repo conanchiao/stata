@@ -4,7 +4,7 @@
 - [Econometric Analysis of Panel Data](https://pages.stern.nyu.edu/~wgreene/Econometrics/PanelDataEconometrics.htm)
 
 **Package**
-- [连玉君 plus2](https://www.lianxh.cn/news/1d83657865b17.html)
+- [Stata Plus-连老师的 Stata 外部命令集 (Update)](https://www.lianxh.cn/news/1d83657865b17.html)
 
 **Website**
 - [Statalist Forums](https://www.statalist.org/forums/)
